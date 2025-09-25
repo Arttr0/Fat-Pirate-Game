@@ -1,9 +1,9 @@
 const cacheName = "MainFrame-Fat Pirate-1.34";
 const contentToCache = [
     "Build/BuildWebGL.loader.js",
-    "Build/BuildWebGL.framework.js.br",
-    "Build/BuildWebGL.data.br",
-    "Build/BuildWebGL.wasm.br",
+    "Build/BuildWebGL.framework.js",
+    "Build/BuildWebGL.data",
+    "Build/BuildWebGL.wasm",
     "TemplateData/style.css"
 
 ];
